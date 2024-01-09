@@ -156,6 +156,7 @@ main {
     border-radius: 16px;
     height: 300px;
     margin: 50px 140px;
+    padding-bottom: 50px;
 
 }
 
@@ -165,6 +166,21 @@ main {
     font-size: 32px;
     line-height: 40px;
     font-weight: 600;
+
+}
+
+.addressing-sec3>button{
+    background-color: #F00;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: auto;
+    margin-left: 460px;
+    justify-content: center;
+    margin-top: 50px;
+
+
 }
 
 .addressing-sec3 span {
